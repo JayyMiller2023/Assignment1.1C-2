@@ -1,6 +1,6 @@
 //Libraries
 #include <iostream>
-#include <String>
+#include <string>
 
 using namespace std;
 
